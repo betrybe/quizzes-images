@@ -1,3 +1,4 @@
-➜  ~ npm -v
-7.10.0
-➜  ~ 
+  test('expect(zero).toBeNull();', () => {
+    expect(zero).toBeNull();
+    expect(um).toBeNull();
+  });
