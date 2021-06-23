@@ -1,0 +1,1 @@
+const action = createStore(rootReducer);
