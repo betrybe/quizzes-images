@@ -1,0 +1,1 @@
+const myReducer = combineReducers({ myReducers });
