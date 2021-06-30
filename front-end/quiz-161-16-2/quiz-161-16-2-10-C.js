@@ -1,1 +1,1 @@
-export default connect(mapStateToProps)(Todos);
+export default connect(null, mapStateToProps)(Todos);
